@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gszj4CupoXo=",
+  "dgSpecHash": "Lop5eewm1uo=",
   "success": true,
-  "projectFilePath": "C:\\CURSOS UAM 2025 PROJETOS\\c#\\SYSMANUT\\SYSMANU\\SYSMANU.csproj",
+  "projectFilePath": "C:\\GITprojetos\\sysmanut\\Sys - Ordem de servico\\SYSMANU.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leonardo-dias\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\leonardo-dias\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

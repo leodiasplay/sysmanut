@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SYSMANU
 build_property.RootNamespace = SYSMANU
-build_property.ProjectDir = C:\CURSOS UAM 2025 PROJETOS\c#\SYSMANUT\SYSMANU\
+build_property.ProjectDir = C:\GITprojetos\sysmanut\Sys - Ordem de servico\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\CURSOS UAM 2025 PROJETOS\c#\SYSMANUT\SYSMANU
+build_property.MSBuildProjectDirectory = C:\GITprojetos\sysmanut\Sys - Ordem de servico
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/CURSOS UAM 2025 PROJETOS/c\#/SYSMANUT/SYSMANU/Views/Cliente/CadastroCliente.cshtml]
+[C:/GITprojetos/sysmanut/Sys - Ordem de servico/Views/Cliente/CadastroCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDYWRhc3Ryb0NsaWVudGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CURSOS UAM 2025 PROJETOS/c\#/SYSMANUT/SYSMANU/Views/Home/Index.cshtml]
+[C:/GITprojetos/sysmanut/Sys - Ordem de servico/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CURSOS UAM 2025 PROJETOS/c\#/SYSMANUT/SYSMANU/Views/Home/Privacy.cshtml]
+[C:/GITprojetos/sysmanut/Sys - Ordem de servico/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CURSOS UAM 2025 PROJETOS/c\#/SYSMANUT/SYSMANU/Views/Shared/Error.cshtml]
+[C:/GITprojetos/sysmanut/Sys - Ordem de servico/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CURSOS UAM 2025 PROJETOS/c\#/SYSMANUT/SYSMANU/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/GITprojetos/sysmanut/Sys - Ordem de servico/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CURSOS UAM 2025 PROJETOS/c\#/SYSMANUT/SYSMANU/Views/Usuario/CadastroUsuario.cshtml]
+[C:/GITprojetos/sysmanut/Sys - Ordem de servico/Views/Usuario/CadastroUsuario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDYWRhc3Ryb1VzdWFyaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CURSOS UAM 2025 PROJETOS/c\#/SYSMANUT/SYSMANU/Views/_ViewImports.cshtml]
+[C:/GITprojetos/sysmanut/Sys - Ordem de servico/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CURSOS UAM 2025 PROJETOS/c\#/SYSMANUT/SYSMANU/Views/_ViewStart.cshtml]
+[C:/GITprojetos/sysmanut/Sys - Ordem de servico/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CURSOS UAM 2025 PROJETOS/c\#/SYSMANUT/SYSMANU/Views/Shared/_Layout.cshtml]
+[C:/GITprojetos/sysmanut/Sys - Ordem de servico/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rwmoucqys6

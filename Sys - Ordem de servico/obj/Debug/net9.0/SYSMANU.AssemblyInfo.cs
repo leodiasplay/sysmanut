@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SYSMANU")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc51ac0cd3cac4d42a0e8a52b405ed31efba1628")]
 [assembly: System.Reflection.AssemblyProductAttribute("SYSMANU")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SYSMANU")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

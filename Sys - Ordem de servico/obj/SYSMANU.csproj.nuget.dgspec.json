@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CURSOS UAM 2025 PROJETOS\\c#\\SYSMANUT\\SYSMANU\\SYSMANU.csproj": {}
+    "C:\\GITprojetos\\sysmanut\\Sys - Ordem de servico\\SYSMANU.csproj": {}
   },
   "projects": {
-    "C:\\CURSOS UAM 2025 PROJETOS\\c#\\SYSMANUT\\SYSMANU\\SYSMANU.csproj": {
+    "C:\\GITprojetos\\sysmanut\\Sys - Ordem de servico\\SYSMANU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CURSOS UAM 2025 PROJETOS\\c#\\SYSMANUT\\SYSMANU\\SYSMANU.csproj",
+        "projectUniqueName": "C:\\GITprojetos\\sysmanut\\Sys - Ordem de servico\\SYSMANU.csproj",
         "projectName": "SYSMANU",
-        "projectPath": "C:\\CURSOS UAM 2025 PROJETOS\\c#\\SYSMANUT\\SYSMANU\\SYSMANU.csproj",
+        "projectPath": "C:\\GITprojetos\\sysmanut\\Sys - Ordem de servico\\SYSMANU.csproj",
         "packagesPath": "C:\\Users\\leonardo-dias\\.nuget\\packages\\",
-        "outputPath": "C:\\CURSOS UAM 2025 PROJETOS\\c#\\SYSMANUT\\SYSMANU\\obj\\",
+        "outputPath": "C:\\GITprojetos\\sysmanut\\Sys - Ordem de servico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leonardo-dias\\AppData\\Roaming\\NuGet\\NuGet.Config"
